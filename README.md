@@ -3,9 +3,12 @@
 ```yaml
 My name is Agnes, but people mostly call me Abby.
 
-I'm a techie who finds the most joy at the intersection of code, commmunity and content. I like to call this "making tech accessible."
+I'm a techie who finds the most joy at the intersection of code, commmunity and content.
 
-I write Python (FastPI) for my day job. In my free time, I contribute to OpenStack (Django), lead the OpenInfra User Group Kenya, and create content about my tinkering.
+I like to call this "making tech accessible."
+
+I write Python (FastPI) for my day job. In my free time, I contribute to OpenStack (Django),
+lead the OpenInfra User Group Kenya, and create content about my tinkering.
 
 My blogs:
 
@@ -24,19 +27,3 @@ My blogs:
 </p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-
-<!--
-**AgnesNM/AgnesNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
